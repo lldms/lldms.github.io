@@ -919,7 +919,7 @@ code {
   overflow: hidden;
 }
 .article-row {
-  width: 50%;
+  width: 100%;
   float: left;
   position: relative;
   padding: 30px 0px 0px 30px;
