@@ -376,7 +376,7 @@ code {
 }
 #header-title .logo-wrap,
 #header-title .subtitle-wrap {
-  float: left;
+  text-align: center;
 }
 #header-title .subtitle-wrap {
   padding: 10px 0px 0px;
