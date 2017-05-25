@@ -382,6 +382,7 @@ code {
 #header-title .logo-wrap,
 #header-title .subtitle-wrap {
   text-align: center;
+  padding-bottom: 15px;
 }
 #header-title .subtitle-wrap {
   padding: 10px 0px 0px;
